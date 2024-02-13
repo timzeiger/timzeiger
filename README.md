@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @timzeiger a developer from Essen, Germany. 
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I use arch, btw.
